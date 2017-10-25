@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZXLibrary_Example' do
+  pod 'ZXLibrary', :path => '../'
+
+  target 'ZXLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
