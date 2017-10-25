@@ -1,0 +1,6 @@
+framework module ZXLibrary {
+  umbrella header "ZXLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

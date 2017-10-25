@@ -1,0 +1,16 @@
+PODS:
+  - ZXLibrary (0.1.0)
+
+DEPENDENCIES:
+  - ZXLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  ZXLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZXLibrary: 85bec8770203f2fc8e37c8c4a78f936e313b5445
+
+PODFILE CHECKSUM: b6c1fd79fef3f85d523220203c0c62028ae98a48
+
+COCOAPODS: 1.1.1
